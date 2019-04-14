@@ -1,0 +1,19 @@
+{
+  "name": "bowling_challenge_v2",
+  "version": "1.0.0",
+  "description": "Json file for the bowling challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "run_test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JRRS1982/bowling_challenge_v2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JRRS1982/bowling_challenge_v2/issues"
+  },
+  "homepage": "https://github.com/JRRS1982/bowling_challenge_v2#readme"
+}
