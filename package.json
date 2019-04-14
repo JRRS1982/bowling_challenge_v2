@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/JRRS1982/bowling_challenge_v2/issues"
   },
-  "homepage": "https://github.com/JRRS1982/bowling_challenge_v2#readme"
+  "homepage": "https://github.com/JRRS1982/bowling_challenge_v2#readme",
+  "devDependencies": {
+    "coveralls": "^3.0.3"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
