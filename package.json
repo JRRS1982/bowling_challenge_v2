@@ -17,9 +17,13 @@
   },
   "homepage": "https://github.com/JRRS1982/bowling_challenge_v2#readme",
   "devDependencies": {
-    "coveralls": "^3.0.3"
+    "coveralls": "^3.0.3",
+    "jasmine": "^3.4.0"
   },
   "dependencies": {
-    "express": "^4.16.4"
+    "bootstrap": "^4.3.1",
+    "express": "^4.16.4",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.14.7"
   }
 }
