@@ -26,3 +26,6 @@ jquery-3.3.1.min.js   src requirement in index.html
 
 // bootstrap (for styling html)
 npm install bootstrap
+
+// ESLint for checking style (run as below)
+./node_modules/.bin/eslint src/public/resources/js/ScoreCard.js
